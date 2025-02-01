@@ -1,4 +1,4 @@
-# 🎮 배틀글라운드 2024 Ver.
+# 🎮 배틀글라운드
 <div align="center">
   <img alt="image" src="https://github.com/user-attachments/assets/4d8ae5d3-f74d-497c-9280-cae426d67d1d" width="45%"/>
   <img alt="image" src="https://github.com/user-attachments/assets/3c97dad2-e30a-4efa-b749-15f5156756dd" width="45%"/>
